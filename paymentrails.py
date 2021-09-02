@@ -5,7 +5,6 @@ import env
 baseURL = 'https://api.paymentrails.com/v1/'
 api_key = env.paymentrails_api_key
 secret_key= env.paymentrails_secret_key
-#https://github.com/PaymentRails/python-sdk/blob/master/paymentrails/client.py
 #DOCS https://dashboard.paymentrails.com/docs
 # Create custom authentication for Payment Rails API
 
